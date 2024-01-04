@@ -10,20 +10,26 @@ In this repository, you will find all relevant academic work that I completed wh
 Dans ce dépôt, vous trouverez tous les travaux académiques pertinents que j'ai réalisés pendant que j'étudiais dans le programme de Technologie du Génie Informatique au Cégep Vanier dans la ville de Saint-Laurent, au Québec, entre 2019 et 2022 ! Vous trouverez également des documents supplémentaires tout au long de ce dépôt.
 
 
+## The CET Program <br> Le programme CET
+The Computer Engineering Technology Program (243.A0) at Vanier College in St. Laurent, Quebec is a three-year diploma program that prepares students for a career in the field of computer engineering technology. The program covers a broad range of topics, including software development, computer hardware, electronics, networking, and cybersecurity. Students will also gain practical experience through hands-on projects and internships. Graduates of this program will have the skills and knowledge to work as computer engineering technologists, IT support specialists, network administrators, software developers, and more.
+
+Le programme de technologie du génie informatique (243.A0) du Collège Vanier à Saint-Laurent, au Québec, est un programme de trois ans menant à un diplôme qui prépare les étudiants à une carrière dans le domaine de la technologie du génie informatique. Le programme couvre un large éventail de sujets, notamment le développement de logiciels, le matériel informatique, l'électronique, la mise en réseau et la cybersécurité. Les étudiants acquièrent également une expérience pratique grâce à des projets concrets et des stages. Les diplômés de ce programme auront les compétences et les connaissances nécessaires pour travailler en tant que technologues en génie informatique, spécialistes de l'assistance informatique, administrateurs de réseau, développeurs de logiciels, etc.
+
+
 ## Repository Structure <br> Structure du Dépôt
 My repository is organized into five branches, with each one holding different material. The repository structure is as follows:
 
 Mon dépôt est organisé en cinq branches, chacune contenant du matériel différent. La structure du dépôt est la suivante :
 
--> main.
-<br>   |-> Miscellaneous.
-<br>   |-> Year-1.
-<br>   |-> Year-2.
-<br>   |-> Year-3.
+* <b>"main"</b> (first branch).<br>
+<t> &rarr; *"Miscellaneous"* (second branch).<br>
+<t> &rarr; *"Year-1"* (third branch).<br>
+<t> &rarr; *"Year-2"* (fourth branch).<br>
+<t> &rarr; *"Year-3"* (fifth branch).
 
-You are currently in the "main" branch of the repository!
+You are currently in the <b>"main"</b> branch of the repository!
 
-Vous êtes actuellement dans la branche "main" du dépôt !
+Vous êtes actuellement dans la branche <b>"main"</b> du dépôt !
 
 
 ## Getting Started <br> Démarrage
@@ -59,25 +65,34 @@ I would like to personally thank all of the following wonderful people who allow
 
 Je tiens à remercier personnellement toutes les personnes suivantes qui m'ont permis de réussir mes études et mon travail professionnel :
 
-Mr. | M. Mohamed Tavakoli
-<br>Mr. | M. Subash Handa
-<br>Mr. | M. John Salik
-<br>Mr. | M. Peter Salik
-<br>Mr. | M. Kevin Fernandez
-<br>Mr. | M. Haritos Kavallos
-<br>Mr. | M. Sabino Miglialo
-<br>Mrs. | Mme. Andreea Iftimie
-<br>Mrs. | Mme. Day Yann Fong
-<br>Mrs. | Mme. Manijeh Khataie
+*Mrs. | Mme.* Andreea IFTIMIE
+<br>*Mrs.| Mme.* Ashley RANKIN
+<br>*Mrs. | Mme.* Day Yann FONG
+<br>*Mr. | M.* Haritos KAVALLOS
+<br>*Mr. | M.* John SALIK
+<br>*Mr. | M.* Kevin FERNANDEZ
+<br>*Mrs. | Mme.* Manijeh KHATAIE
+<br>*Mr. | M.* Mohamed TAVAKOLI
+<br>*Mr. | M.* Peter SALIK
+<br>*Mr. | M.* Sabino MIGLIALO
+<br>*Mr. | M.* Serge HOULD
+<br>*Mr. | M.* Subash HANDA
 
-...and most importantly, to my mother, father, brother, and close friends, as without their continued support, all my studies and professional work would not have been possible!
+I would also like to personally thank my director general of Vanier College, Mr. John McMAHON, and my academic dean of Vanier College, Mrs. Annie-Claude BANVILLE, for their generous appreciation of my hard work during my studies in the CET program.
 
-...et surtout, à ma mère, mon père, mon frère et mes amis proches, car sans leur soutien continu, toutes mes études et mon travail professionnel n'auraient pas été possibles !
+J'aimerais également remercier personnellement le directeur général du Cégep Vanier, M. John McMAHON, et la doyenne du Cégep Vanier, Mme. Annie-Claude BANVILLE, pour leur généreuse appréciation de mon travail acharné au cours de mes études dans le cadre du programme du CET.
 
+...and most importantly, to my mother, father, brother, family, and close friends, as without their continued support, all my studies and professional work would not have been possible!
+
+...et surtout, à ma mère, mon père, mon frère, ma famille, et mes amis proches, car sans leur soutien continu, toutes mes études et mon travail professionnel n'auraient pas été possibles !
+
+
+## Contact
 If you have any questions, suggestions, or issues related to this repository, please feel free to contact me or open an issue in the repository. In the meantime, enjoy exploring the world of Computer Engineering Technology!
 
 Si vous avez des questions, des suggestions ou des problèmes liés à ce référentiel, n'hésitez pas à me contacter ou à ouvrir un problème dans le référentiel. En attendant, je vous souhaite une bonne exploration du monde de la Technologie du Génie Informatique !
 
 Best regards,<br>
-Cordialement,<br>
+Cordialement,
+
 Leonardo
