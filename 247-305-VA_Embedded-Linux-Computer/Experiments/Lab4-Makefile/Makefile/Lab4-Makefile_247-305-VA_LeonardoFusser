@@ -1,0 +1,18 @@
+all: excc message clean
+excc: Functions_1.o Functions_2.o lab4_main.o
+	gcc -o excc Functions_1.o Functions_2.o lab4_main.o
+
+lab4_main.o: lab4_main.c Functions_1.h Functions_2.h
+	gcc -c lab4_main.c
+
+Functions_1.o: Functions_1.c Functions_1.h
+	gcc -c Functions_1.c
+
+Functions_2.o: Functions_2.c Functions_2.h
+	gcc -c Functions_2.c
+
+clean:
+	rm *.o
+
+message:
+	@echo [Done compiling and linking!]
