@@ -1,0 +1,44 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+//	Module name: Lab5_constraints.ucf
+//	Description: Constraints file for Lab 5. All mappings that need to be connected to the
+//					 Baysys2 FPGA pins are done here.
+//
+//	Author				Date						Revision		Comments	
+///////////////////////////////////////////////////////////////////////////////////////////
+//	Leonardo Fusser	15 November 2021		v1.0.0		Created Lab5_constraints.ucf file.
+// Leonardo Fusser	27 November 2021		v1.0.1		Completed Lab5_constraints.ucf file.
+//
+///////////////////////////////////////////////////////////////////////////////////////////
+
+//[For Part 1 and Part 2]
+//Baysys2 clock and reset switch.
+NET "MCLK" LOC = "B8";		//MCLK.
+NET "RESET" LOC = "P11";	//RESET.
+
+//[For Part 1]
+//NET "LED<7>" LOC = "G1";  //Connects LED[7] to 8th LED on Baysys2 board.
+//NET "LED<6>" LOC = "P4";  //Connects LED[6] to 7th LED on Baysys2 board.
+//NET "LED<5>" LOC = "N4";  //Connects LED[5] to 6th LED on Baysys2 board.
+//NET "LED<4>" LOC = "N5";  //Connects LED[4] to 5th LED on Baysys2 board.
+//NET "LED<3>" LOC = "P6";  //Connects LED[3] to 4th LED on Baysys2 board.
+//NET "LED<2>" LOC = "P7";  //Connects LED[2] to 3rd LED on Baysys2 board.
+//NET "LED<1>" LOC = "M11"; //Connects LED[1] to 2nd LED on Baysys2 board.
+//NET "LED<0>" LOC = "M5";  //Connects LED[0] to 1st LED on Baysys2 board.
+
+//[For Part 2]
+NET "seg<6>" LOC = "L14"; //Connects seg[6] to 7sd cathode A on Baysys2 board.
+NET "seg<5>" LOC = "H12"; //Connects seg[5] to 7sd cathode B on Baysys2 board.
+NET "seg<4>" LOC = "N14"; //Connects seg[4] to 7sd cathode C on Baysys2 board.
+NET "seg<3>" LOC = "N11"; //Connects seg[3] to 7sd cathode D on Baysys2 board.
+NET "seg<2>" LOC = "P12"; //Connects seg[2] to 7sd cathode E on Baysys2 board.
+NET "seg<1>" LOC = "L13"; //Connects seg[1] to 7sd cathode F on Baysys2 board.
+NET "seg<0>" LOC = "M12"; //Connects seg[0] to 7sd cathode G on Baysys2 board.
+
+//[For Part 2]
+NET "an<3>" LOC = "K14";	//Connects AN[3] to 7sd annode 3 on Baysys2 board.
+NET "an<2>" LOC = "M13";	//Connects AN[2] to 7sd annode 2 on Baysys2 board.
+NET "an<1>" LOC = "J12";	//Connects AN[1] to 7sd annode 1 on Baysys2 board.
+NET "an<0>" LOC = "F12";	//Connects AN[0] to 7sd annode 0 on Baysys2 board.
+
+//[For Part 2]
+NET "dp" LOC = "N13";		//Connects DP to 7sd decimal point on Baysys2 board.

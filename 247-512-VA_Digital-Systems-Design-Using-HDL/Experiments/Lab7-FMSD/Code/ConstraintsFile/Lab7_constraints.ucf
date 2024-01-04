@@ -1,0 +1,46 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+//	Module name: Lab7_constraints.ucf
+//	Description: Constraints file for Lab 7. All mappings that need to be connected to the
+//		     		 Baysys2 FPGA pins are done here.
+//
+//  Author				Date		   		Revision			Comments	
+///////////////////////////////////////////////////////////////////////////////////////////
+//  Leonardo Fusser	6 December 2021   v1.0.0			Created Lab7_constraints.ucf file.
+//																		Completed Lab7_constraints.ucf file.
+//
+///////////////////////////////////////////////////////////////////////////////////////////
+
+//Reset switch and MCLK on Baysys2.
+NET "MCLK" LOC = "B8";		//MCLK.
+NET "RESET" LOC = "P11";	//RESET.
+
+//LEDs on Baysys2.
+NET "LED<7>" LOC = "G1";	//Connects LED[7] to 8th LED on Baysys2 board.
+NET "LED<6>" LOC = "P4";	//Connects LED[6] to 7th LED on Baysys2 board.
+NET "LED<5>" LOC = "N4";	//Connects LED[5] to 6th LED on Baysys2 board.
+NET "LED<4>" LOC = "N5";	//Connects LED[4] to 5th LED on Baysys2 board.
+NET "LED<3>" LOC = "P6";	//Connects LED[3] to 4th LED on Baysys2 board.
+NET "LED<2>" LOC = "P7";	//Connects LED[2] to 3rd LED on Baysys2 board.
+NET "LED<1>" LOC = "M11";	//Connects LED[1] to 2nd LED on Baysys2 board.
+NET "LED<0>" LOC = "M5";	//Connects LED[0] to 1st LED on Baysys2 board.
+
+//Push-buttons on Baysys2.
+NET "btn<3>" LOC = "A7";	//Connects btn[3] to 4th pushbutton on Baysys2 board.
+NET "btn<2>" LOC = "M4";	//Connects btn[2] to 3rd pushbutton on Baysys2 board.
+NET "btn<1>" LOC = "C11";	//Connects btn[1] to 2nd pushbutton on Basysy2 board.
+NET "btn<0>" LOC = "G12";	//Connects btn[0] to 1st pushbutton on Baysys2 board.
+
+//7sd cathodes on Baysys2.
+NET "seg<6>" LOC = "L14"; //Connects seg[6] to 7sd cathode A on Baysys2 board.
+NET "seg<5>" LOC = "H12"; //Connects seg[5] to 7sd cathode B on Baysys2 board.
+NET "seg<4>" LOC = "N14"; //Connects seg[4] to 7sd cathode C on Baysys2 board.
+NET "seg<3>" LOC = "N11"; //Connects seg[3] to 7sd cathode D on Baysys2 board.
+NET "seg<2>" LOC = "P12"; //Connects seg[2] to 7sd cathode E on Baysys2 board.
+NET "seg<1>" LOC = "L13"; //Connects seg[1] to 7sd cathode F on Baysys2 board.
+NET "seg<0>" LOC = "M12"; //Connects seg[0] to 7sd cathode G on Baysys2 board.
+
+//7sd anodes on Baysys2.
+NET "an<3>" LOC = "K14";  //Connects AN[3] to 7sd annode 3 on Baysys2 board.
+NET "an<2>" LOC = "M13";  //Connects AN[2] to 7sd annode 2 on Baysys2 board.
+NET "an<1>" LOC = "J12";  //Connects AN[1] to 7sd annode 1 on Baysys2 board.
+NET "an<0>" LOC = "F12";  //Connects AN[0] to 7sd annode 0 on Baysys2 board.

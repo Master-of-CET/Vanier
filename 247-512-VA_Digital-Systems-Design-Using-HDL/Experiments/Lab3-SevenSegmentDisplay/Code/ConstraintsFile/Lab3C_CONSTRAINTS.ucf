@@ -1,0 +1,24 @@
+NET "swA<0>" LOC = "P11";
+NET "swA<1>" LOC = "L3";
+NET "swA<2>" LOC = "K3";
+NET "swA<3>" LOC = "B4";
+
+NET "swB<0>" LOC = "G3";
+NET "swB<1>" LOC = "F3";
+NET "swB<2>" LOC = "E2";
+NET "swB<3>" LOC = "N3";
+
+NET "an<0>"  LOC = "K14";
+NET "an<1>"  LOC = "M13";
+NET "an<2>"  LOC = "J12";
+NET "an<3>"  LOC = "F12";
+
+NET "mclk<0>" LOC = "B8";
+
+NET "seg<0>" LOC = "M12";
+NET "seg<1>" LOC = "L13";
+NET "seg<2>" LOC = "P12";
+NET "seg<3>" LOC = "N11";
+NET "seg<4>" LOC = "N14";
+NET "seg<5>" LOC = "H12";
+NET "seg<6>" LOC = "L14";

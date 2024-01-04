@@ -1,0 +1,40 @@
+///////////////////////////////////////////////////////////////////////////////////////////
+//	Module name: Lab4_CONSTRAINTS.ucf
+//	Description: Constraints file for Lab 4. All mappings that need to be connected to the
+//					 Baysys2 FPGA are done here.
+//
+//	Author				Date						Revision		Comments	
+///////////////////////////////////////////////////////////////////////////////////////////
+//	Leonardo Fusser	25 October 2021		v1.0.0		Created Lab4_CONSTRAINTS.ucf file.
+// Leonardo Fusser	8 November 2021		v1.0.1		Completed Lab4_CONSTRAINTS.ucf file.
+//
+///////////////////////////////////////////////////////////////////////////////////////////
+
+
+//[For Part 1 and Part 2]
+//Baysys2 clock and reset switch.
+NET "MCLK" LOC = "B8";		//MCLK.
+NET "RST" LOC = "P11";		//RST.
+
+//[For Part 1]
+//Clock divider output LEDs.
+//NET "F4" LOC = "P6";		//F4.
+//NET "F3" LOC = "P7";		//F3.
+//NET "F2" LOC = "M11";		//F2.
+//NET "F1" LOC = "M5";		//F1.
+
+//[For Part 2]
+//Shifting frequency select switches.
+NET "SW<0>" LOC = "E2";		//SW[0].
+NET "SW<1>" LOC = "N3";		//SW[1].
+
+//[For Part 2]
+//Shifting output LEDs.
+NET "LED<0>" LOC = "M5";	//LED[0].
+NET "LED<1>" LOC = "M11";	//LED[1].
+NET "LED<2>" LOC = "P7";	//LED[2].
+NET "LED<3>" LOC = "P6";	//LED[3].
+NET "LED<4>" LOC = "N5";	//LED[4].
+NET "LED<5>" LOC = "N4";	//LED[5].
+NET "LED<6>" LOC = "P4";	//LED[6].
+NET "LED<7>" LOC = "G1";	//LED[7].
