@@ -10,10 +10,10 @@ In this repository, you will find all relevant work that I completed while study
 My repository is organized into five branches, with each one holding different material. The repository structure is as follows:
 
 -> main.
-   -> Miscellaneous.
-   -> Year-1.
-   -> Year-2.
-   -> Year-3.
+<br>   |-> Miscellaneous.
+<br>   |-> Year-1.
+<br>   |-> Year-2.
+<br>   |-> Year-3.
 
 You are currently in the "main" branch of the repository!
 
@@ -38,16 +38,17 @@ The code and resources in this repository are provided under the [MIT License](h
 This repository was created to showcase all my hard work and dedication during my studies in the CET program at Vanier College. Acknowledgments go to the authors, contributors, and educators who have provided valuable knowledge and resources for the materials showcased in this repository.
 
 I would like to personally thank all of the following wonderful people who allowed me to succeed in my studies and professional work:
+
 Mr. Mohamed Tavakoli
-Mr. Subash Handa
-Mr. John Salik
-Mr. Peter Salik
-Mr. Kevin Fernandez
-Mr. Haritos Kavallos
-Mr. Sabino Miglialo
-Mrs. Andreea Iftimie
-Mrs. Day Yann Fong
-Mrs. Manijeh Khataie
+<br>Mr. Subash Handa
+<br>Mr. John Salik
+<br>Mr. Peter Salik
+<br>Mr. Kevin Fernandez
+<br>Mr. Haritos Kavallos
+<br>Mr. Sabino Miglialo
+<br>Mrs. Andreea Iftimie
+<br>Mrs. Day Yann Fong
+<br>Mrs. Manijeh Khataie
 
 ...and most importantly, to my mother, father, brother, and close friends, as without their continued support all my studies and professional work would not have been possible!
 
