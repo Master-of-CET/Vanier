@@ -1,0 +1,132 @@
+Switch1#show running-config
+Building configuration...
+
+Current configuration : 2200 bytes
+!
+version 12.2
+no service pad
+service timestamps debug datetime msec
+service timestamps log datetime msec
+no service password-encryption
+!
+hostname Switch1
+!
+boot-start-marker
+boot-end-marker
+!
+enable secret 5 $1$RMK9$oe7Nh.MlBnpo/vZz5HcD3.
+!
+no aaa new-model
+system mtu routing 1500
+ip subnet-zero
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+spanning-tree mode pvst
+spanning-tree extend system-id
+!
+vlan internal allocation policy ascending
+!
+!
+!
+interface FastEthernet0/1
+ description SubnetB
+!
+interface FastEthernet0/2
+ description Host2
+!
+interface FastEthernet0/3
+!
+interface FastEthernet0/4
+!
+interface FastEthernet0/5
+!
+interface FastEthernet0/6
+!
+interface FastEthernet0/7
+!
+interface FastEthernet0/8
+!
+interface FastEthernet0/9
+!
+interface FastEthernet0/10
+!
+interface FastEthernet0/11
+!
+interface FastEthernet0/12
+!
+interface FastEthernet0/13
+!
+interface FastEthernet0/14
+!
+interface FastEthernet0/15
+!
+interface FastEthernet0/16
+!
+interface FastEthernet0/17
+!
+interface FastEthernet0/18
+!
+interface FastEthernet0/19
+!
+interface FastEthernet0/20
+!
+interface FastEthernet0/21
+!
+interface FastEthernet0/22
+!
+interface FastEthernet0/23
+!
+interface FastEthernet0/24
+!
+interface GigabitEthernet0/1
+!
+interface GigabitEthernet0/2
+!
+interface Vlan1
+ description VLAN1
+ ip address 172.20.0.125 255.255.255.128
+ no ip route-cache
+!
+ip default-gateway 172.20.0.126
+ip http server
+ip http secure-server
+!
+control-plane
+!
+banner motd ^C
+************************************************
+*                                              *
+* Network Systems Design                       *
+* Day Yann Fong                                *
+* Lab 8                                        *
+*                                              *
+* Team: Ezra & Leo                             *
+* Device: Switch1                              *
+*                                              *
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+*                                              *
+*                    WARNING                   *
+*          UNAUTHORIZED ACCESS FORBIDDEN       *
+*                                              *
+*              STAY OUT OF MY SWITCH!          *
+*                                              *
+************************************************
+^C
+!
+line con 0
+ password class
+ login
+line vty 0 4
+ login
+line vty 5 15
+ login
+!
+end

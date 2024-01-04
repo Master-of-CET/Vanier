@@ -1,0 +1,104 @@
+hostname Router1
+!
+!
+!
+enable secret 5 $1$mERr$9cTjUIEqNGurQiFU.ZeCi1
+!
+!
+!
+!
+!
+!
+no ip cef
+no ipv6 cef
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+!
+!
+interface FastEthernet0/0
+ description Lab-LAN
+ ip address 172.16.11.254 255.255.252.0
+ duplex auto
+ speed auto
+ no shutdown
+!
+interface FastEthernet0/1
+ no ip address
+ duplex auto
+ speed auto
+ shutdown
+!
+interface Serial0/0/0
+ description WAN1-Interface#1
+ ip address 172.16.14.33 255.255.255.252
+ clock rate 2000000
+ no shutdown
+!
+interface Serial0/0/1
+ no ip address
+ clock rate 2000000
+ shutdown
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip classless
+ip route 172.16.12.0 255.255.254.0 172.16.14.34 
+ip route 172.16.14.0 255.255.255.224 172.16.14.34 
+ip route 172.16.14.36 255.255.255.252 172.16.14.34 
+!
+ip flow-export version 9
+!
+!
+!
+banner motd ^C
+********************************************************************
+*                                                                  *
+* Network Systems Design                                           *
+* Day Yann Fong                                                    *
+* Mini-Project                                                     *
+*                                                                  *
+* Team: Leo, Maxime, Josue.                                        *
+*                                                                  *
+* Device: Router1                                                  *
+*                                                                  *
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+*                            WARNING!                              *
+*                 UNAUTHORIZED ACCESS NOT ALLOWED!                 *
+*                                                                  *
+*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*
+********************************************************************
+^C
+!
+!
+!
+!
+!
+line con 0
+ password cisco
+ login
+!
+line aux 0
+!
+line vty 0 4
+ login
+!
+!
+!
+end
