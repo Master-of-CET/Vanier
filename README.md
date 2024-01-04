@@ -53,9 +53,9 @@ Le code et les ressources de ce dépôt sont fournis sous la [MIT License](https
 ## Acknowledgments <br> Remerciements
 This repository was created to showcase all my hard work and dedication during my studies in the CET program at Vanier College. Acknowledgments go to the authors, contributors, and educators who have provided valuable knowledge and resources for the materials showcased in this repository.
 
-I would like to personally thank all of the following wonderful people who allowed me to succeed in my studies and professional work:
+Ce dépôt a été créé pour mettre en valeur mon travail acharné et mon dévouement pendant mes études dans le programme CET au Cégep Vanier. Je tiens à remercier les auteurs, les collaborateurs et les éducateurs qui ont fourni des connaissances et des ressources précieuses pour les documents présentés dans ce référentiel.
 
-Ce référentiel a été créé pour mettre en valeur mon travail acharné et mon dévouement pendant mes études dans le programme CET au Collège Vanier. Je tiens à remercier les auteurs, les collaborateurs et les éducateurs qui ont fourni des connaissances et des ressources précieuses pour les documents présentés dans ce référentiel.
+I would like to personally thank all of the following wonderful people who allowed me to succeed in my studies and professional work:
 
 Je tiens à remercier personnellement toutes les personnes suivantes qui m'ont permis de réussir mes études et mon travail professionnel :
 
@@ -76,7 +76,7 @@ Mr. | M. Mohamed Tavakoli
 
 If you have any questions, suggestions, or issues related to this repository, please feel free to contact me or open an issue in the repository. In the meantime, enjoy exploring the world of Computer Engineering Technology!
 
-Si vous avez des questions, des suggestions ou des problèmes liés à ce référentiel, n'hésitez pas à me contacter ou à ouvrir un problème dans le référentiel. En attendant, je vous souhaite une bonne exploration du monde de la technologie du génie informatique !
+Si vous avez des questions, des suggestions ou des problèmes liés à ce référentiel, n'hésitez pas à me contacter ou à ouvrir un problème dans le référentiel. En attendant, je vous souhaite une bonne exploration du monde de la Technologie du Génie Informatique !
 
 Best regards,<br>
 Cordialement,<br>
