@@ -1,19 +1,19 @@
 # Welcome! <br> Bienvenue!
-Greetings everyone, it is I, Leonardo Fusser! I would like to personally welcome you to my Vanier repository!
+Greetings everyone, it is I, <b>Leonardo Fusser</b>! I would like to personally welcome you to my Vanier repository!
 
-Bonjour à tous, c'est moi, Leonardo Fusser ! Je vous souhaite personnellement la bienvenue dans mon dépôt Vanier !
+Bonjour à tous, c'est moi, <b>Leonardo Fusser</b> ! Je vous souhaite personnellement la bienvenue dans mon dépôt Vanier !
 
 
 ## Description
-In this repository, you will find all relevant academic work that I completed while studying in the Computer Engineering Technology (CET) program at Vanier College in the city of St. Laurent, Quebec between 2019 and 2022! You will also find supplemental matterial throughout this repository.
+In this repository, you will find all relevant academic work that I completed while studying in the Computer Engineering Technology (CET) program at Vanier College in the city of St. Laurent, Quebec, between Fall 2019 and Winter 2022! You will also find supplemental matterial throughout this repository.
 
-Dans ce dépôt, vous trouverez tous les travaux académiques pertinents que j'ai réalisés pendant que j'étudiais dans le programme de Technologie du Génie Informatique au Cégep Vanier dans la ville de Saint-Laurent, au Québec, entre 2019 et 2022 ! Vous trouverez également des documents supplémentaires tout au long de ce dépôt.
+Dans ce dépôt, vous trouverez tous les travaux académiques pertinents que j'ai réalisés pendant que j'étudiais dans le programme de Technologie du Génie Informatique au Cégep Vanier dans la ville de Saint-Laurent, au Québec, entre l'automne 2019 et l'hiver 2022 ! Vous trouverez également des documents supplémentaires tout au long de ce dépôt.
 
 
 ## The CET Program <br> Le programme CET
-The Computer Engineering Technology Program (243.A0) at Vanier College in St. Laurent, Quebec is a three-year diploma program that prepares students for a career in the field of computer engineering technology. The program covers a broad range of topics, including software development, computer hardware, electronics, networking, and cybersecurity. Students will also gain practical experience through hands-on projects and internships. Graduates of this program will have the skills and knowledge to work as computer engineering technologists, IT support specialists, network administrators, software developers, and more.
+The CET program (243.A0) at Vanier College in St. Laurent, Quebec is a three-year diploma program that prepares students for a career in the field of computer engineering technology. The program covers a broad range of topics, including software development, computer hardware, electronics, networking, and cybersecurity. Students will also gain practical experience through hands-on projects and internships. Graduates of this program will have the skills and knowledge to work as computer engineering technologists, IT support specialists, network administrators, software developers, and more.
 
-Le programme de technologie du génie informatique (243.A0) du Collège Vanier à Saint-Laurent, au Québec, est un programme de trois ans menant à un diplôme qui prépare les étudiants à une carrière dans le domaine de la technologie du génie informatique. Le programme couvre un large éventail de sujets, notamment le développement de logiciels, le matériel informatique, l'électronique, la mise en réseau et la cybersécurité. Les étudiants acquièrent également une expérience pratique grâce à des projets concrets et des stages. Les diplômés de ce programme auront les compétences et les connaissances nécessaires pour travailler en tant que technologues en génie informatique, spécialistes de l'assistance informatique, administrateurs de réseau, développeurs de logiciels, etc.
+Le programme de CET (243.A0) du Cégep Vanier à Saint-Laurent, au Québec, est un programme de trois ans menant à un diplôme qui prépare les étudiants à une carrière dans le domaine de la technologie du génie informatique. Le programme couvre un large éventail de sujets, notamment le développement de logiciels, le matériel informatique, l'électronique, la mise en réseau et la cybersécurité. Les étudiants acquièrent également une expérience pratique grâce à des projets concrets et des stages. Les diplômés de ce programme auront les compétences et les connaissances nécessaires pour travailler en tant que technologues en génie informatique, spécialistes de l'assistance informatique, administrateurs de réseau, développeurs de logiciels, etc.
 
 
 ## Repository Structure <br> Structure du Dépôt
@@ -21,11 +21,11 @@ My repository is organized into five branches, with each one holding different m
 
 Mon dépôt est organisé en cinq branches, chacune contenant du matériel différent. La structure du dépôt est la suivante :
 
-* <b>"main"</b> (first branch).<br>
-<t> &rarr; *"Miscellaneous"* (second branch).<br>
-<t> &rarr; *"Year-1"* (third branch).<br>
-<t> &rarr; *"Year-2"* (fourth branch).<br>
-<t> &rarr; *"Year-3"* (fifth branch).
+* <b>"main"</b> (repository homepage | page d'accueil du dépôt).<br>
+<t> &rarr; *"Miscellaneous"* (additional supplemental material branch | branche des matériaux complémentaires).<br>
+<t> &rarr; *"Year-1"* (1st year CET studies branch | 1ère année CET branche d'études).<br>
+<t> &rarr; *"Year-2"* (2nd year CET studies branch | 2e année de la branche d'études CET).<br>
+<t> &rarr; *"Year-3"* (3rd year CET studies branch | 3ème année CET branche d'études).
 
 You are currently in the <b>"main"</b> branch of the repository!
 
@@ -65,7 +65,7 @@ I would like to personally thank all of the following wonderful people who allow
 
 Je tiens à remercier personnellement toutes les personnes suivantes qui m'ont permis de réussir mes études et mon travail professionnel :
 
-*Mrs. | Mme.* Andreea IFTIMIE
+<b>*Mrs. | Mme.* Andreea IFTIMIE
 <br>*Mrs.| Mme.* Ashley RANKIN
 <br>*Mrs. | Mme.* Day Yann FONG
 <br>*Mr. | M.* Haritos KAVALLOS
@@ -76,11 +76,11 @@ Je tiens à remercier personnellement toutes les personnes suivantes qui m'ont p
 <br>*Mr. | M.* Peter SALIK
 <br>*Mr. | M.* Sabino MIGLIALO
 <br>*Mr. | M.* Serge HOULD
-<br>*Mr. | M.* Subash HANDA
+<br>*Mr. | M.* Subash HANDA</b>
 
-I would also like to personally thank my director general of Vanier College, Mr. John McMAHON, and my academic dean of Vanier College, Mrs. Annie-Claude BANVILLE, for their generous appreciation of my hard work during my studies in the CET program.
+I would also like to personally thank my director general of Vanier College, <b>*Mr.* John McMAHON</b>, and my academic dean of Vanier College, <b>*Mrs.* Annie-Claude BANVILLE</b>, for their generous appreciation of my hard work during my studies in the CET program.
 
-J'aimerais également remercier personnellement le directeur général du Cégep Vanier, M. John McMAHON, et la doyenne du Cégep Vanier, Mme. Annie-Claude BANVILLE, pour leur généreuse appréciation de mon travail acharné au cours de mes études dans le cadre du programme du CET.
+J'aimerais également remercier personnellement le directeur général du Cégep Vanier, <b>*M.* John McMAHON</b>, et la doyenne du Cégep Vanier, <b>*Mme.* Annie-Claude BANVILLE</b>, pour leur généreuse appréciation de mon travail acharné au cours de mes études dans le cadre du programme du CET.
 
 ...and most importantly, to my mother, father, brother, family, and close friends, as without their continued support, all my studies and professional work would not have been possible!
 
@@ -91,6 +91,9 @@ J'aimerais également remercier personnellement le directeur général du Cégep
 If you have any questions, suggestions, or issues related to this repository, please feel free to contact me or open an issue in the repository. In the meantime, enjoy exploring the world of Computer Engineering Technology!
 
 Si vous avez des questions, des suggestions ou des problèmes liés à ce référentiel, n'hésitez pas à me contacter ou à ouvrir un problème dans le référentiel. En attendant, je vous souhaite une bonne exploration du monde de la Technologie du Génie Informatique !
+
+e-mail | courriel : fusserleonardo@gmail.com<br>
+LinkdIn: https://www.linkedin.com/in/leonardo-fusser/
 
 Best regards,<br>
 Cordialement,
