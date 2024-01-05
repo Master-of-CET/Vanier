@@ -5,7 +5,7 @@ Vous êtes maintenant dans la branche <b>"Year-3"</b> du dépôt !
 
 
 ## Description
-In this branch, you will find all my academic work that I completed in my third year of studies in the Computer Engineering Technology (CET) program at Vanier College in the city of St. Laurent, Quebec between Fall 2021 and Winter 2022.
+In this branch, you will find all my academic work that I completed in my third year of studies in the Computer Engineering Technology (CET) program at Vanier College in the city of St. Laurent, Quebec, between Fall 2021 and Winter 2022.
 
 Dans cette branche, vous trouverez tous les travaux académiques que j'ai réalisés au cours de ma troisième année d'études dans le programme de Technologie du génie informatique au Cégep Vanier dans la ville de Saint-Laurent, Québec, entre l'automne 2021 et l'hiver 2022.
 
