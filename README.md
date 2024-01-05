@@ -17,14 +17,14 @@ Le programme de CET (243.A0) du Cégep Vanier à Saint-Laurent, au Québec, est 
 
 
 ## Repository Structure <br> Structure du Dépôt
-My repository is organized into five branches, with each one holding different material. The repository structure is as follows:
+My repository is organized into five branches, and each branch contains different material pertaining to my studies at Vanier College between Fall 2019 and Winter 2022. The repository structure is as follows:
 
-Mon dépôt est organisé en cinq branches, chacune contenant du matériel différent. La structure du dépôt est la suivante :
+Mon dépôt est organisé en cinq branches, et chaque branche contient différents documents relatifs à mes études au Cégep Vanier entre l'automne 2019 et l'hiver 2022. La structure du dépôt est la suivante :
 
 * <b>"main"</b> (repository homepage | page d'accueil du dépôt).<br>
 <t> &rarr; *"Miscellaneous"* (additional supplemental material branch | branche des matériaux complémentaires).<br>
 <t> &rarr; *"Year-1"* (1st year CET studies branch | 1ère année CET branche d'études).<br>
-<t> &rarr; *"Year-2"* (2nd year CET studies branch | 2e année de la branche d'études CET).<br>
+<t> &rarr; *"Year-2"* (2nd year CET studies branch | 2e année CET branche d'études).<br>
 <t> &rarr; *"Year-3"* (3rd year CET studies branch | 3ème année CET branche d'études).
 
 You are currently in the <b>"main"</b> branch of the repository!
@@ -93,7 +93,7 @@ If you have any questions, suggestions, or issues related to this repository, pl
 Si vous avez des questions, des suggestions ou des problèmes liés à ce référentiel, n'hésitez pas à me contacter ou à ouvrir un problème dans le référentiel. En attendant, je vous souhaite une bonne exploration du monde de la Technologie du Génie Informatique !
 
 e-mail | courriel : fusserleonardo@gmail.com<br>
-LinkdIn: https://www.linkedin.com/in/leonardo-fusser/
+LinkedIn: https://www.linkedin.com/in/leonardo-fusser/
 
 Best regards,<br>
 Cordialement,
