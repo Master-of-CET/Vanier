@@ -5,9 +5,9 @@ Vous êtes maintenant dans la branche <b>"Year-1"</b> du dépôt !
 
 
 ## Description
-In this branch, you will find all my academic work that I completed in my first year of studies in the Computer Engineering Technology (CET) program at Vanier College in the city of St. Laurent, Quebec between Fall 2019 and Winter 2020.
+In this branch, you will find all my academic work that I completed in my first year of studies in the Computer Engineering Technology (CET) program at Vanier College in the city of St. Laurent, Quebec, between Fall 2019 and Winter 2020.
 
-Dans cette branche, vous trouverez tous les travaux académiques que j'ai réalisés au cours de ma première année d'études dans le programme de Technologie du Génie Informatique au Cégep Vanier dans la ville de St-Laurent, Québec entre l'automne 2019 et l'hiver 2020.
+Dans cette branche, vous trouverez tous les travaux académiques que j'ai réalisés au cours de ma première année d'études dans le programme de Technologie du Génie Informatique au Cégep Vanier dans la ville de St-Laurent, Québec, entre l'automne 2019 et l'hiver 2020.
 
 
 ## Branch Contents <br> Contenu de la Branche
